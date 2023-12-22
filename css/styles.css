@@ -613,15 +613,14 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--background-color);
-  margin-left:80px;
+  margin-left: 80px;
 }
-.form-p{
+.form-p {
   margin-bottom: 16px;
 }
 .form {
   display: flex;
-  gap:24px;
-  
+  gap: 24px;
 }
 .form-label-input {
   gap: 24px;
@@ -631,7 +630,7 @@ body {
   background-color: transparent;
   border-radius: 4px;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-  font: 12px;
+  font-size: 12px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   padding-left: 16px;
@@ -643,25 +642,24 @@ body {
 .footer-submit-button {
   height: 40px;
   min-width: 165px;
-  display:flex;
+  display: flex;
   justify-content: center;
   align-items: center;
   padding: 8px 24px;
   font-size: 16px;
   font-weight: 500;
-  line-height:1.5;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
   color: var(--background-color);
   background-color: var(--logo-webcolor);
   border: none;
   border-radius: 4px;
-
 }
-.form-label{
-  display:flex;
-  gap:24px;
+.form-label {
+  display: flex;
+  gap: 24px;
 }
-.form-button-svg{
+.form-button-svg {
   margin-left: 16px;
 }
